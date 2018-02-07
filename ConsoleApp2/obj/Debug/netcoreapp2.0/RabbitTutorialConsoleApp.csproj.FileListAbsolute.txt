@@ -1,0 +1,11 @@
+C:\Users\fmota\source\repos\desafiocarnaval\ConsoleApp2\obj\Debug\netcoreapp2.0\RabbitTutorialConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\fmota\source\repos\desafiocarnaval\ConsoleApp2\obj\Debug\netcoreapp2.0\RabbitTutorialConsoleApp.AssemblyInfoInputs.cache
+C:\Users\fmota\source\repos\desafiocarnaval\ConsoleApp2\obj\Debug\netcoreapp2.0\RabbitTutorialConsoleApp.AssemblyInfo.cs
+C:\Users\fmota\source\repos\desafiocarnaval\ConsoleApp2\bin\Debug\netcoreapp2.0\RabbitTutorialConsoleApp.deps.json
+C:\Users\fmota\source\repos\desafiocarnaval\ConsoleApp2\bin\Debug\netcoreapp2.0\RabbitTutorialConsoleApp.runtimeconfig.json
+C:\Users\fmota\source\repos\desafiocarnaval\ConsoleApp2\bin\Debug\netcoreapp2.0\RabbitTutorialConsoleApp.runtimeconfig.dev.json
+C:\Users\fmota\source\repos\desafiocarnaval\ConsoleApp2\bin\Debug\netcoreapp2.0\RabbitTutorialConsoleApp.dll
+C:\Users\fmota\source\repos\desafiocarnaval\ConsoleApp2\bin\Debug\netcoreapp2.0\RabbitTutorialConsoleApp.pdb
+C:\Users\fmota\source\repos\desafiocarnaval\ConsoleApp2\obj\Debug\netcoreapp2.0\RabbitTutorialConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\fmota\source\repos\desafiocarnaval\ConsoleApp2\obj\Debug\netcoreapp2.0\RabbitTutorialConsoleApp.dll
+C:\Users\fmota\source\repos\desafiocarnaval\ConsoleApp2\obj\Debug\netcoreapp2.0\RabbitTutorialConsoleApp.pdb
